@@ -81,21 +81,21 @@ pygame
  Screenshots
 
 <img width="502" height="410" alt="image" src="https://github.com/user-attachments/assets/a3b6cd54-0036-4f4d-acff-93d428cb728f" />
--
+--
 <img width="497" height="413" alt="image" src="https://github.com/user-attachments/assets/f67e4dfe-e889-4caf-83a6-79b1b550e02e" />
--
+--
 <img width="472" height="525" alt="image" src="https://github.com/user-attachments/assets/bf38b95a-c141-4f09-9fda-c746a84f441b" />
--
+--
 <img width="476" height="521" alt="image" src="https://github.com/user-attachments/assets/dbde04c4-4ec6-4d96-bafd-1fe39c5a9bcc" />
--
+--
 <img width="315" height="347" alt="image" src="https://github.com/user-attachments/assets/1f9d34b1-31be-4cb8-b2de-c651a0800fbb" />
--
+--
 <img width="664" height="738" alt="image" src="https://github.com/user-attachments/assets/598f651b-9b52-4d54-8de5-2c5ee9f106c7" />
--
+--
 <img width="867" height="951" alt="image" src="https://github.com/user-attachments/assets/be7744fa-56c3-465c-a988-d1fd84300c76" />
--
+--
 <img width="879" height="947" alt="image" src="https://github.com/user-attachments/assets/28bd9a4d-f7e0-4d3a-9634-0c6dcde9bb4b" />
--
+--
 
 
 
